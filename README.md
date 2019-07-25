@@ -17,3 +17,11 @@
 ```js
     const cal = require('./index');
 ```
+
+### วิธีการบวก
+
+สำหรับการบวกให้ใช้ function `plus()`
+
+```js
+    console.log(cal.plus(3, 6)); // 9
+```
